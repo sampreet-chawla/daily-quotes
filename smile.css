@@ -1,0 +1,63 @@
+/* Grouping */
+/* article, p {
+  border: 1px solid;
+}
+ */
+
+/* Wild Card */
+* {
+  /*   border: 1px solid; */
+  box-sizing: border-box;
+}
+
+article {
+  width: 500px;
+  height: 360px;
+  margin: 0 auto;
+  text-align: right;
+  letter-spacing: 1.5px;
+  line-height: 1;
+  background-image: url("https://images.unsplash.com/photo-1516452391242-15957b3bb26a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60");
+  background-position: 0px -400px;
+  padding: 55px 10px;
+}
+
+p {
+  font-size: 25px;
+  font-family: cursive;
+  margin: 0;
+  color: #eae3d9;
+}
+
+span {
+  font-size: 35px;
+  font-weight: 600;
+  text-transform: uppercase;
+  font-family: fantasy;
+  /*   color: salmon; */
+}
+
+.smile {
+  color: #c99cd5;
+  margin-right: 100px;
+}
+
+.give {
+  color: #b1a983;
+  margin-right: 100px;
+}
+
+.love {
+  color: #7fac8b;
+  margin-right: 125px;
+}
+
+/* Pseudoclass = p:first-of-type   */
+/* p:first-of-type span {
+      color: #c99cd5;
+    }
+     */
+/* p:nth-of-type(3) span {
+      color: #b1a983;
+    }
+     */
