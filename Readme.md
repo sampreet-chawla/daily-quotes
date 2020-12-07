@@ -5,3 +5,7 @@ This is an inspired version of the GA Unit 1 assignments, and is built by consol
 ## Technologies used
 
 HTML5, CSS3 and Javascript
+
+## Link to the site
+
+[Quote of the day](https://sampreet-chawla.github.io/daily-quotes/)
